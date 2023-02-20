@@ -1,5 +1,8 @@
 # Chat GPT "DAN" (and other "Jailbreaks")
 
+- We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT, a powerful language model.
+---
+
 - <https://chat.openai.com/>
 - [Is ChatGPT "DAN" Real? Gonna find out [Part 1]](https://www.youtube.com/watch?v=-q8woRG9FrI) \
   (<https://www.youtube.com/watch?v=-q8woRG9FrI>)
