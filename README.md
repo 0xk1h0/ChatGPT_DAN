@@ -1,6 +1,6 @@
 # Chat GPT "DAN" (and other "Jailbreaks")
 
-- We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT, a powerful language model.
+- <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT, a powerful language model.
 ---
 
 - <https://chat.openai.com/>
