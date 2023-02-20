@@ -1,4 +1,4 @@
-# Chat GPT "DAN" (and other "Jailbreaks")
+# ChatGPT "DAN" (and other "Jailbreaks")
 
 - <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT, a powerful language model.
 ---
