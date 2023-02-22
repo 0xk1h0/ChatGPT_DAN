@@ -8,6 +8,7 @@
   (<https://www.youtube.com/watch?v=-q8woRG9FrI>)
 - [Part 2: I thought ChatGPT DAN was a hoax, but...][p2] \
   (<https://www.youtube.com/watch?v=rHZRrDu3A2U&lc=UgxfrxX8aK7gnCzkend4AaABAg>)
+- https://www.jailbreakchat.com/
 
 [p2]: https://www.youtube.com/watch?v=rHZRrDu3A2U&lc=UgxfrxX8aK7gnCzkend4AaABAg
 
