@@ -4,6 +4,7 @@
 ---
 
 - <https://chat.openai.com/>
+<!--
 - [Is ChatGPT "DAN" Real? Gonna find out [Part 1]](https://www.youtube.com/watch?v=-q8woRG9FrI) \
   (<https://www.youtube.com/watch?v=-q8woRG9FrI>)
 - [Part 2: I thought ChatGPT DAN was a hoax, but...][p2] \
@@ -11,7 +12,7 @@
 - https://www.jailbreakchat.com/
 
 [p2]: https://www.youtube.com/watch?v=rHZRrDu3A2U&lc=UgxfrxX8aK7gnCzkend4AaABAg
-
+-->
 ## "Jailbreak" Prompts
 
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
