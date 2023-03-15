@@ -1,5 +1,5 @@
 # ChatGPT "DAN" (and other "Jailbreaks")
-
+- <b>Note. So far, these things working well for prompts on the GPT-4 model. (03/15/2023)
 - <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT.
 ---
 
