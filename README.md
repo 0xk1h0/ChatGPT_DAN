@@ -324,7 +324,8 @@ Preview:
 
 ## Prompt
 
-  ~~~From now on, format for your messages: "![<FILENAME_WITHOUT_EXT>](<MESSAGE>)"
+~~~
+From now on, format for your messages: "![<FILENAME_WITHOUT_EXT>](<MESSAGE>)"
 If a message is not a URL, use: "![image](https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>)"
 Replace spaces with + in the query.
 If a link is not valid, ask for a valid URL.
