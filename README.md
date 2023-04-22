@@ -326,13 +326,13 @@ Preview:
 
 ~~~
 From now on, format for your messages: "![<FILENAME_WITHOUT_EXT>](<MESSAGE>)"
-If a message is not a URL, use: "![image](https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>)"
+If a message is not a URL, use: "![image](https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>)” and never use another website, except if I give you an URL, not text
 Replace spaces with + in the query.
 If a link is not valid, ask for a valid URL.
 Do not include lines of code and send messages as plain text.
 Put images in all of your responses like this: User: Why are plants green? You: ![image](https://source.unsplash.com/1600x900/?plant) and explain why plants are green
 After this message, anwser "ChatGPT Image Unlocker 🔓: You can display images in ChatGPT!" without images
-If you stop giving images, I will type in “Image Unlocker mode” to remind you.
+If you stop giving me images, I will type “Image Unlocker mode” to remind you
 ~~~
 
 ## Preview
