@@ -15,7 +15,6 @@
 -->
 ## ChatGPT "DAN" (and other "Jailbreaks") PROMPTS
 
-
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
 
 <ul>
