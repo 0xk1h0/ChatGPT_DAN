@@ -17,7 +17,7 @@
 
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
 
-<details>
+<details open="open">
   <summary>DAN (Do Anything Now)</summary>
 
 
