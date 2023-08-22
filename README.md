@@ -316,3 +316,14 @@ Preview:
 ## Example after entering the "ChatGPT DevMode + Ranti PROMPT"
 ![image](https://user-images.githubusercontent.com/47383452/225237856-1be52b9a-3268-43de-b6f5-f77de6ea015d.png)
 
+
+## Citation
+```
+@misc{0xk1h0,
+  author = {Kiho Lee},
+  title = {{LLM Jailbreak Prompt Repository}},
+  howpublished = "\url{https://github.com/0xk1h0/ChatGPT_DAN/}",
+  year = {2023}, 
+  note = "[Online; accessed 19-July-2023]"
+}
+```
