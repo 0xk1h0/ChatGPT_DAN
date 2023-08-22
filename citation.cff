@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lee"
+  given-names: "Kiho"
+  orcid: "https://orcid.org/0000-0002-8713-3863"
+title: "ChatGPT_DAN"
+version: 1.0.0
+// doi: 10.5281/zenodo.1234
+date-released: 2023-02-22
+url: "https://github.com/0xk1h0/ChatGPT_DAN"
