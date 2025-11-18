@@ -1,5 +1,5 @@
 # ChatGPT "DAN" (and other "Jailbreaks")
-- <b>NOTE: As of 20231028, the DAN 13.1 prompt (if used carefully) and the DAN 14.0 prompt is working properly with Model GPT-5
+- <b>NOTE: As of 20231028, the DAN 13.1 prompt (if used carefully) and the DAN 14.0 prompt is working properly with Model GPT-5. None work on GPT-5.1 but still works against Gemini Flash.
 - <b>All contributors are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts.
 ---
 
