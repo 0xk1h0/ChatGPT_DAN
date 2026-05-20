@@ -1,6 +1,7 @@
 # ChatGPT "DAN" (and other "Jailbreaks")
 - <b>NOTE: As of 20260517, All jailbreaks (exept 1: Gemini Jailbreak prompt at the end) failed to jailbreak Gemini Flash (Only jailbreaking Grok 4.0 Fast).
 - <b>All contributors are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts.
+- <b>Target Gemini Flash-lite for best results.
 ---
 
 - <https://chat.openai.com/>
