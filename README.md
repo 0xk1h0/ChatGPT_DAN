@@ -6,6 +6,54 @@
 - <b>All contributors are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts.
 ---
 
+## Getting Started with Claude Code
+
+[Claude Code](https://claude.ai/code) is Anthropic's official CLI for Claude that helps with software engineering tasks directly from your terminal.
+
+### Installation
+
+```bash
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+### Add to PATH (if not already done)
+
+After installation, if `claude` is not found in your shell, add `~/.local/bin` to your PATH:
+
+**For zsh (macOS default):**
+```bash
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
+```
+
+**For bash:**
+```bash
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc
+```
+
+### First-time Login
+
+```bash
+claude
+```
+
+On first run, Claude Code will prompt you to log in with your Anthropic account. Follow the on-screen instructions to authenticate.
+
+### Usage
+
+Navigate to your project directory, then launch Claude Code:
+
+```bash
+cd /path/to/your/actual/project   # replace with your real project path
+claude
+```
+
+For help:
+```bash
+claude --help
+```
+
+---
+
 - <https://chat.openai.com/>
 
 ## ChatGPT "DAN" (and other "Jailbreaks") PROMPTS
