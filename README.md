@@ -1,4 +1,7 @@
 # ChatGPT "DAN" (and other "Jailbreaks")
+
+<a href="https://trendshift.io/repositories/13613?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-13613" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/13613" alt="0xk1h0%2FChatGPT_DAN | Trendshift" width="250" height="55"/></a>
+
 - <b>NOTE: As of 20230711, the DAN 12.0 prompt is working properly with Model GPT-3.5
 - <b>All contributors are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts.
 ---
